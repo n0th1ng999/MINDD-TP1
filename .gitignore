@@ -1,2 +1,35 @@
 bank.csv
 isep
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Data files
+*.xlsx
+*.tsv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Copilot instructions
+.github/copilot-instructions.md
+
+# VS Code settings
+.vscode/
+.idea/MINDD-TP1.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/dictionaries/project.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/workspace.xml
