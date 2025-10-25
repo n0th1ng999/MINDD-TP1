@@ -1,0 +1,14 @@
+pandas
+scipy
+numpy
+matplotlib
+seaborn
+scikit-learn
+imblearn
+xgboost
+lightgbm
+scikit-optimize
+ipython
+matplotlib-inline
+ipympl
+ipykernel
