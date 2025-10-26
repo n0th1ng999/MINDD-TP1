@@ -12,3 +12,4 @@ ipython
 matplotlib-inline
 ipympl
 ipykernel
+tensorflow
